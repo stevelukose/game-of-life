@@ -216,7 +216,7 @@
                         <executions>
                             <execution>
                                 <goals>
-                                    <goal>clean package</goal>
+                                    <goal>clean</goal>
                                     <goal>check</goal>
                                 </goals>
                             </execution>
